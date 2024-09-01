@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-31T01:37:40 IST" name="Surefire suite" finished-at="2024-08-31T01:38:56 IST" duration-ms="76055">
+    <groups>
+    </groups>
+    <test started-at="2024-08-31T01:37:40 IST" name="Surefire test" finished-at="2024-08-31T01:38:56 IST" duration-ms="76055">
+      <class name="Test.FinalTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.FinalTest@33afa13b]" started-at="2024-08-31T01:37:40 IST" name="setup" finished-at="2024-08-31T01:37:51 IST" duration-ms="10563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Bookicon()[pri:1, instance:Test.FinalTest@33afa13b]" started-at="2024-08-31T01:37:51 IST" name="Bookicon" finished-at="2024-08-31T01:37:51 IST" duration-ms="563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bookicon -->
+        <test-method signature="NewArrivals()[pri:2, instance:Test.FinalTest@33afa13b]" started-at="2024-08-31T01:37:51 IST" name="NewArrivals" finished-at="2024-08-31T01:37:57 IST" duration-ms="5194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewArrivals -->
+        <test-method signature="setboxpage()[pri:3, instance:Test.FinalTest@33afa13b]" started-at="2024-08-31T01:37:57 IST" name="setboxpage" finished-at="2024-08-31T01:38:01 IST" duration-ms="4527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setboxpage -->
+        <test-method signature="setboxpage2()[pri:4, instance:Test.FinalTest@33afa13b]" started-at="2024-08-31T01:38:01 IST" name="setboxpage2" finished-at="2024-08-31T01:38:25 IST" duration-ms="23571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setboxpage2 -->
+        <test-method signature="Bestsellers()[pri:5, instance:Test.FinalTest@33afa13b]" started-at="2024-08-31T01:38:25 IST" name="Bestsellers" finished-at="2024-08-31T01:38:29 IST" duration-ms="4015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bestsellers -->
+        <test-method signature="FictionBooks()[pri:6, instance:Test.FinalTest@33afa13b]" started-at="2024-08-31T01:38:29 IST" name="FictionBooks" finished-at="2024-08-31T01:38:36 IST" duration-ms="7048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FictionBooks -->
+        <test-method signature="Awardwinners()[pri:7, instance:Test.FinalTest@33afa13b]" started-at="2024-08-31T01:38:36 IST" name="Awardwinners" finished-at="2024-08-31T01:38:38 IST" duration-ms="2581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Awardwinners -->
+        <test-method signature="FeaturedAuthors()[pri:8, instance:Test.FinalTest@33afa13b]" started-at="2024-08-31T01:38:38 IST" name="FeaturedAuthors" finished-at="2024-08-31T01:38:40 IST" duration-ms="2100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FeaturedAuthors -->
+        <test-method signature="FeaturedAuthors1()[pri:9, instance:Test.FinalTest@33afa13b]" started-at="2024-08-31T01:38:40 IST" name="FeaturedAuthors1" finished-at="2024-08-31T01:38:43 IST" duration-ms="2256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FeaturedAuthors1 -->
+        <test-method signature="Requestabook()[pri:10, instance:Test.FinalTest@33afa13b]" started-at="2024-08-31T01:38:43 IST" name="Requestabook" finished-at="2024-08-31T01:38:44 IST" duration-ms="1441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Requestabook -->
+        <test-method signature="Requestabook1()[pri:11, instance:Test.FinalTest@33afa13b]" started-at="2024-08-31T01:38:44 IST" name="Requestabook1" finished-at="2024-08-31T01:38:52 IST" duration-ms="7458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Requestabook1 -->
+        <test-method signature="setboxpage3()[pri:12, instance:Test.FinalTest@33afa13b]" started-at="2024-08-31T01:38:52 IST" name="setboxpage3" finished-at="2024-08-31T01:38:56 IST" duration-ms="3924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setboxpage3 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Test.FinalTest@33afa13b]" started-at="2024-08-31T01:38:56 IST" name="teardown" finished-at="2024-08-31T01:38:56 IST" duration-ms="627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Test.FinalTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
